@@ -1,0 +1,26 @@
+CHANGELOG for library coordinates.
+Author: Olli Lammi 
+
+
+Version v1.0e, 18.11.2015
+-------------------------
+* Added support for ETRS-GKn coordinates
+
+
+Version v1.0c, 14.02.2014
+-------------------------
+* Added WGS84travel function. 
+
+* Fixed a bug in WGS84bearing function (returned initial bearing was wrong). 
+
+
+Version v1.0b, 05.12.2012
+-------------------------
+* Added MGRS conversion functions. 
+
+* Fixed WGS84 bearing and distance bug to support coincident points. 
+
+
+Version v1.0a, 25.10.2012
+-------------------------
+* Published the rewritten version under MIT License. 
